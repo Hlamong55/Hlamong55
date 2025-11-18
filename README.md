@@ -77,6 +77,5 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=9000&pause=1500&color=008ba3&center=true&vCenter=true&width=900&lines=Thank+you+%E2%9D%A4%EF%B8%8F+%7C%7C+Happy+Coding+%F0%9F%9A%80+%7C%7C+Keep+Supporting+%F0%9F%A4%91)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=9000&pause=1500&color=008ba3&center=true&vCenter=true&width=1200&lines=Thank+you+%E2%9D%A4%EF%B8%8F+%7C%7C+Happy+Coding+%F0%9F%9A%80+%7C%7C+Keep+Supporting+%E2%9C%8C%EF%B8%8F)
 
