@@ -1,4 +1,4 @@
-<img width="919" height="511" alt="Gemini_Generated_Image_t5zvtmt5zvtmt5zv" src="https://github.com/user-attachments/assets/87ca0617-c928-4d44-b514-80daa1de836e" />
+<img width="1344" height="691" alt="Gemini_Generated_Image_ml7k5lml7k5lml7k (1)" src="https://github.com/user-attachments/assets/04a81386-b377-4d5a-b8bb-2c4ed65609c0" />
 <h1 align="center">Hi 👋, I'm Hla Mong Sing Marma</h1>
 <h3 align="center">A passionate frontend developer from Chattogram, Bangladesh</h3>
 
