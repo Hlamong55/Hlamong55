@@ -1,7 +1,8 @@
 <img width="1344" height="691" alt="Gemini_Generated_Image_ml7k5lml7k5lml7k (1)" src="https://github.com/user-attachments/assets/622b8927-53c6-43ff-89cf-6234c809a45b" />
 
+------------------
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=1200&color=00bcd4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hlamong+Sing+Marma!;MERN+Stack+Developer;React+Enthusiast;Problem+Solver+%26+Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=7000&pause=1200&color=00acc1&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hlamong+Sing+Marma!;MERN+Stack+Developer+%7C%7C+React+Enthusiast;Problem+Solver+%26+Lifelong+Learner)
 
 
 -------------------
