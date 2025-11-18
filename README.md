@@ -48,7 +48,7 @@ Coding isn't just work for me — it's something I genuinely enjoy.
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoy-marma&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlamong55&layout=compact&theme=tokyonight" />
 </p>
 
 ---
