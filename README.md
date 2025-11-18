@@ -1,63 +1,77 @@
-<h1 align="center">Hi 👋, I'm Hla Mong Sing Marma</h1>
-<h3 align="center">A passionate frontend developer from Chattogram, Bangladesh</h3>
+<!-- Banner Image -->
+<img src="https://i.ibb.co/rMd5dGhA/Blue-Modern-Web-Developer-Linked-In-Banner.png" alt="Banner" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hlamong55&label=Profile%20views&color=0e75b6&style=flat" alt="hlamong55" />
-</p>
-
-- 🔭 I’m currently working on **ZapShift, a Delivery Website**
-- 🌱 Enhancing my Backend Skill by learning **Node.js & MongoDB**
-- 💬 Ask me about **React, Tailwind, JavaScript**
-- 📫 Reach me at **bijoymarma55@gmail.com**
-- ⚡ Fun fact: **Started as a frontend dev, now exploring backend!**
+<!-- Typing SVG Intro -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=0CF7E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Bijoy+Marma!;MERN+Stack+Developer;React+Enthusiast;Problem+Solver+%26+Lifelong+Learner)
 
 ---
 
-## 🌐 Connect with me  
+## 👨‍💻 About Me
+I’m a dedicated MERN Stack Developer who loves turning ideas into real, working applications.  
+Coding isn't just work for me — it's something I genuinely enjoy.
+
+---
+
+## 🔍 More Details
+
+- 🌱 I’m currently learning **Next.js**, **TypeScript**, and **backend scaling techniques**
+- 💬 Ask me about **React**, **Express**, **MongoDB**, **Authentication**, **APIs**, and **Firebase**
+- 🚀 I love solving problems and building clean, optimized user experiences
+- 🎯 Goal 2025: Become a **full-time MERN + Next.js specialist**
+- ⚡ Fun fact: I can code for hours straight if I’m excited about a project 😄
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🚀 Frontend
 <p align="left">
-  <a href="https://fb.com/hla mong" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+</p>
+
+### 🧩 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bijoy-marma&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bijoy-marma&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoy-marma&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/bijoymarma" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:bijoymarma35@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/bijoy-marma">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 📊 **GitHub Stats and Activity**
-
-### 🔥 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlamong55&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlamong55&theme=tokyonight" height="170" />
-</p>
-
----
-
-### 🧩 Top Languages by Repo & Commit (like your screenshot)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hlamong55&theme=tokyonight" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hlamong55&theme=tokyonight" height="200"/>
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hlamong55&theme=github-dark&hide_border=true" />
-</p>
