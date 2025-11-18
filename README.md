@@ -1,12 +1,14 @@
 <img width="1344" height="691" alt="Gemini_Generated_Image_ml7k5lml7k5lml7k (1)" src="https://github.com/user-attachments/assets/622b8927-53c6-43ff-89cf-6234c809a45b" />
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=0CF7E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Bijoy+Marma!;MERN+Stack+Developer;React+Enthusiast;Problem+Solver+%26+Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=1200&color=00bcd4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hlamong+Sing+Marma!;MERN+Stack+Developer;React+Enthusiast;Problem+Solver+%26+Lifelong+Learner)
+
 
 -------------------
 
 ## 🦾 About Me
 My development journey started with HTML, CSS, and JavaScript. Now, I specialize in modern frameworks and libraries like React.js and Tailwind CSS to build responsive, dynamic, and visually appealing web applications.
+
 Currently, I'm expanding my expertise by working on full-stack projects, learning Node.js, Express.js, and MongoDB, and integrating JWT authentication for secure web applications. 
 
 -------------------
