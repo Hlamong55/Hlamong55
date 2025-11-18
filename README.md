@@ -1,16 +1,15 @@
-<!-- Banner Image -->
-<img src="https://i.ibb.co/rMd5dGhA/Blue-Modern-Web-Developer-Linked-In-Banner.png" alt="Banner" />
+<img width="1344" height="691" alt="Gemini_Generated_Image_ml7k5lml7k5lml7k (1)" src="https://github.com/user-attachments/assets/622b8927-53c6-43ff-89cf-6234c809a45b" />
 
-<!-- Typing SVG Intro -->
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=0CF7E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Bijoy+Marma!;MERN+Stack+Developer;React+Enthusiast;Problem+Solver+%26+Lifelong+Learner)
 
----
+-------------------
 
-## 👨‍💻 About Me
-I’m a dedicated MERN Stack Developer who loves turning ideas into real, working applications.  
-Coding isn't just work for me — it's something I genuinely enjoy.
+## 🦾 About Me
+My development journey started with HTML, CSS, and JavaScript. Now, I specialize in modern frameworks and libraries like React.js and Tailwind CSS to build responsive, dynamic, and visually appealing web applications.
+Currently, I'm expanding my expertise by working on full-stack projects, learning Node.js, Express.js, and MongoDB, and integrating JWT authentication for secure web applications. 
 
----
+-------------------
 
 ## 🔍 More Details
 
@@ -20,7 +19,7 @@ Coding isn't just work for me — it's something I genuinely enjoy.
 - 🎯 Goal 2025: Become a **full-time MERN + Next.js specialist**
 - ⚡ Fun fact: I can code for hours straight if I’m excited about a project 😄
 
----
+------------------
 
 ## 🛠️ Skills & Technologies
 
@@ -31,20 +30,20 @@ Coding isn't just work for me — it's something I genuinely enjoy.
 
 ### 🧩 Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jwt" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bijoy-marma&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bijoy-marma&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hlamong55&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hlamong55&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -58,10 +57,10 @@ Coding isn't just work for me — it's something I genuinely enjoy.
   <a href="https://www.linkedin.com/in/bijoymarma" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:bijoymarma35@gmail.com">
+  <a href="mailto:bijoymarma55@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/bijoy-marma">
+  <a href="https://github.com/hlamong55">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
