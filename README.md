@@ -56,17 +56,22 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 
 ---
 
+## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hlamong-sing/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="margin:0 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
   <a href="mailto:bijoymarma55@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" style="margin:0 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hlamong55">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" style="margin:0 10px;" />
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/8801955506106" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="50"  " style="margin:0 10px;" />
   </a>
 </p>
 
