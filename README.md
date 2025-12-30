@@ -1,4 +1,4 @@
-<img width="1344" height="420" alt="Gemini_short_Image_ml7k5lml7k5lml7k (1)" src="https://github.com/user-attachments/assets/094dea64-3ca9-41e3-a96a-dc2aafe7c1e7" />
+<img width="1344" height="440" alt="Gemini_short_Image_ml7k5lml7k5lml7k (1)" src="https://github.com/user-attachments/assets/094dea64-3ca9-41e3-a96a-dc2aafe7c1e7" />
 
 
 ------------------
@@ -11,7 +11,7 @@
 ## 🦾 About Me
 My development journey started with HTML, CSS, and JavaScript. Now, I specialize in modern frameworks and libraries like React.js and Tailwind CSS to build responsive, dynamic, and visually appealing web applications.
 
-Currently, I'm expanding my expertise by working on full-stack projects, learning Node.js, Express.js, and MongoDB, and integrating JWT authentication for secure web applications. 
+Currently, I'm expanding my expertise by working on full-stack projects, learning Next.js, TypeScript, and MongoDB, and integrating JWT authentication for secure web applications. 
 
 -------------------
 
@@ -28,17 +28,17 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 ## 🛠️ Skills & Technologies
 
 ### 🚀 Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
 </p>
 
 ### 🧩 Backend & Database
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
 ### 🧰 Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jwt" />
 </p>
 
@@ -56,18 +56,21 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/bijoymarma" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/hlamong-sing/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:bijoymarma55@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hlamong55">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+
 
 ---
 
