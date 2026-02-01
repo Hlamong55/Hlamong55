@@ -48,11 +48,9 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hlamong55&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hlamong55&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlamong55&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -71,7 +69,7 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801955506106" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="50"  " style="margin:0 10px;" />
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="52"  " style="margin:0 10px;" />
   </a>
 </p>
 
