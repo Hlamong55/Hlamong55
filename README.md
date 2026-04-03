@@ -46,11 +46,17 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=hlamong55&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=hlamong55&theme=tokyonight" 
+    
   <a href="https://github.com/Hlamong55?tab=repositories" target="_blank" rel="noopener noreferrer">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hlamong55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&border_radius=8&card_width=400" alt="Top Languages - Hlamong55" />
 </a>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hlamong55&theme=tokyo-night" />
+
+  <a href="https://github.com/Hlamong55" target="_blank" rel="noopener noreferrer">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hlamong55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution Graph - Hlamong55" />
+</a>
+  
+  <!-- <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hlamong55&theme=tokyo-night" /> -->
 </p>
 
 
