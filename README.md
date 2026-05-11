@@ -53,7 +53,7 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 </a>
 
   <a href="https://github.com/Hlamong55" target="_blank" rel="noopener noreferrer">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hlamong55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution Graph - Hlamong55" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hlamong55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution Graph - Hlamong55" />
 </a>
   
   <!-- <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hlamong55&theme=tokyo-night" /> -->
