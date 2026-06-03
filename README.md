@@ -9,9 +9,9 @@
 -------------------
 
 ## 🦾 About Me
-My development journey started with HTML, CSS, and JavaScript. Now, I specialize in modern frameworks and libraries like React.js and Tailwind CSS to build responsive, dynamic, and visually appealing web applications.
+My development journey started with HTML, CSS, and JavaScript. Now, I **specialize in modern frameworks** and **libraries** like React.js and Tailwind CSS to build responsive, dynamic, and visually appealing web applications.
 
-Currently, I'm expanding my expertise by working on full-stack projects, learning Next.js, TypeScript, and MongoDB, and integrating JWT authentication for secure web applications. 
+Currently, I'm expanding my expertise by working on **full-stack projects, Next.js, TypeScript**, and MongoDB, and integrating JWT authentication for secure web applications. 
 
 -------------------
 
@@ -29,7 +29,7 @@ Currently, I'm expanding my expertise by working on full-stack projects, learnin
 
 ### 🚀 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python" />
 </p>
 
 ### 🧩 Backend & Database
