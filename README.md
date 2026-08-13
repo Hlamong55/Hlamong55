@@ -27,19 +27,29 @@ Currently, I'm expanding my expertise by working on **full-stack projects, Next.
 
 ## 🛠️ Skills & Technologies
 
-### 🚀 Frontend
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,vite,ts,redux&theme=dark" />
 </p>
 
-### 🧩 Backend & Database
+### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,python,fastapi,socketio&theme=dark" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jwt" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose,postgresql,prisma,firebase&theme=light" />
+</p>
+
+### ☁️ DevOps & Deployment
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,netlify,railway,aws,githubactions&theme=dark" />
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,codeblocks,postman,figma,bash,npm&theme=dark" />
 </p>
 
 ---
