@@ -11,7 +11,7 @@
 ## 🦾 About Me
 My development journey started with HTML, CSS, and JavaScript. Now, I **specialize in modern frameworks** and **libraries** like React.js and Tailwind CSS to build responsive, dynamic, and visually appealing web applications.
 
-Currently, I'm expanding my expertise by working on **full-stack projects, Next.js, TypeScript**, and MongoDB, and integrating JWT authentication for secure web applications. 
+Currently, I'm expanding my full-stack development skills by working with **Next.js, TypeScript, FastAPI, Mongoose, DevOps tools**, and **RAC based authentication** to build secure and scalable web applications.
 
 -------------------
 
@@ -20,7 +20,7 @@ Currently, I'm expanding my expertise by working on **full-stack projects, Next.
 - 🌱 I’m currently learning **Next.js**, **TypeScript**, and **backend scaling techniques**
 - 💬 Ask me about **React**, **Express**, **MongoDB**, **Authentication**, **APIs**, and **Firebase**
 - 🚀 I love solving problems and building clean, optimized user experiences
-- 🎯 Goal 2026: Become a **full-time MERN + Next.js specialist**
+- 🎯 Goal 2026: Become a **Full Stack Developer Specialist**
 - ⚡ Fun fact: I can code for hours straight if I’m excited about a project 😄
 
 ------------------
