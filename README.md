@@ -58,7 +58,7 @@ Currently, I'm expanding my full-stack development skills by working with **Next
 <p align="center">
 <a href="https://github.com/Hlamong55">
   <img width="48%"
-       src="https://streak-stats.demolab.com/?user=hlamong55&theme=tokyonight"
+       src="https://streak-stats.demolab.com/?user=Hlamong55&theme=tokyonight"
        alt="GitHub Streak - Hlamong55" />
 </a>
 
