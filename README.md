@@ -57,13 +57,13 @@ Currently, I'm expanding my full-stack development skills by working with **Next
 ## 📊 GitHub Stats  
 <p align="center">
 <a href="https://github.com/Hlamong55">
-  <img width="48%"
+  <img width="49%"
        src="https://streak-stats.demolab.com/?user=Hlamong55&theme=tokyonight"
        alt="GitHub Streak - Hlamong55" />
 </a>
 
 <a href="https://github.com/Hlamong55?tab=repositories">
-  <img width="50%"
+  <img width="49%"
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hlamong55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&border_radius=8&card_width=400"
        alt="Top Languages - Hlamong55" />
 </a>
