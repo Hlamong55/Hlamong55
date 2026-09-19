@@ -1,5 +1,4 @@
-<img width="1344" height="580" alt="Gemini_short_Image_ml7k5lml7k5lml7k (1)" src="https://github.com/user-attachments/assets/094dea64-3ca9-41e3-a96a-dc2aafe7c1e7" />
-
+<img width="3200" height="800" alt="github-banner (1)" src="https://github.com/user-attachments/assets/f46dc437-4613-458e-b54c-cf048c361337" />
 
 ------------------
 
