@@ -84,16 +84,19 @@ Currently, I'm expanding my full-stack development skills by working with **Next
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
 
   <a href="mailto:bijoymarma55@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://github.com/hlamong55" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://wa.me/8801955506106" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" alt="WhatsApp" />
@@ -102,7 +105,9 @@ Currently, I'm expanding my full-stack development skills by working with **Next
 
   <a href="https://discord.com/users/1413446591234179122" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/discord-logo.png" width="50" alt="Discord" />
-  </a> &nbsp;
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 
